@@ -8,7 +8,7 @@
    Erweiterung um eine externe LED auf PIN 3, die PIN 13 ersetzt
 */
 
-#define BoardLED   13           //LED auf Pin 13
+#define BoardLED   13           //LED auf Pin 13 onbaord
 #define LED        3            //externe LED in grün auf Pin 3
 
 
